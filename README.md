@@ -1,7 +1,7 @@
 # SQLServer-y-C-
 Importar Excel a Base de Datos SQLServer y C#
 
---Intrucciones 
+# Intrucciones 
 
 -1.Descomprimir la carpeta PROGRA V y pegarla en el escritorio 
 
